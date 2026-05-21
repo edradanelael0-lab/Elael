@@ -1,9 +1,9 @@
-## Elael Edradan
-## HOBBIES 
+## My name is Elael Edradan I'm 19 years old
+## MY HOBBIES 
 - Playing guitar
 - playing games
 - Singing
-## SPORTS 
+## MY SPORTS 
 - Takraw 
 - Basketball
 ## COURSE AND YEAR
