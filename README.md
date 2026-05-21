@@ -9,3 +9,5 @@
 ## COURSE AND YEAR
 - Bachelor of science in information technology 
 - FIRST YEAR
+## MY GOAL
+- My goal in taking BSIT is to gain strong IT skills, become a competent technology professional, and build a successful career in the IT industry
