@@ -2,10 +2,10 @@
 ## HOBBIES 
 - Playing guitar
 - playing games
-- Singing 
-## COURSE AND YEAR
-- Bachelor of science in information technology 
-- FIRST YEAR
+- Singing
 ## SPORTS 
 - Takraw 
 - Basketball
+## COURSE AND YEAR
+- Bachelor of science in information technology 
+- FIRST YEAR
